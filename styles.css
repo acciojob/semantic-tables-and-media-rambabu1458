@@ -11,3 +11,6 @@ ol li video,ol li img,ol li audio{
 	width:100%;
 	height:350px
 }
+ol li audio{
+	height:80px;
+}
